@@ -130,7 +130,7 @@ output application/json
 output application/json
 ---
 {
-  productId: "1231",
+  productId: "1231abc",
   productName: "chinna mule course",
   productprovider: "udemey",
   product_descrpition: "complete mule developer course"
